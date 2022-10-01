@@ -1,10 +1,10 @@
 {
-  "status" : "Ketika menonton Jangan lupa aktifin mode earn yah, supaya kamu nonton menjadi untung, happy watching!",
-  "isOpen" : true,
-  "cpm" : 5,
-  "paymentMsg" : "Syarat penarikan uang haruslah berperingkat minimal Diamond! Ketika sudah claim point maka point akan tereset otomatis! Penarikan hanya via Gopay, lalu setiap selesai penarikan video yang pernah ditonton akan tetap mendapatkan poin jika belum pernah melakukan penarikan atau belum melakukan penarikan maka tidak mendapat poin, apabila pengguna aplikasi obasaka semakin banyak maka CPM akan bertambah!\n\nHappy Watching!",
-  "isOpenOnGoing" : true,
-  "messageOnGoing" : "Sewaktu-waktu jadwal dapat berubah!",
+  "status": "Ketika menonton Jangan lupa aktifin mode earn yah, supaya kamu nonton menjadi untung, happy watching!",
+  "isOpen": true,
+  "cpm": 5,
+  "paymentMsg": "Syarat penarikan uang haruslah berperingkat minimal Diamond! Ketika sudah claim point maka point akan tereset otomatis! Penarikan hanya via Gopay, lalu setiap selesai penarikan video yang pernah ditonton akan tetap mendapatkan poin jika belum pernah melakukan penarikan atau belum melakukan penarikan maka tidak mendapat poin, apabila pengguna aplikasi obasaka semakin banyak maka CPM akan bertambah!\n\nHappy Watching!",
+  "isOpenOnGoing": true,
+  "messageOnGoing": "Sewaktu-waktu jadwal dapat berubah!",
   "infoNew": "Klik ini untuk mempelajari feature obasaka",
   "categoryDetailList": [
     {
