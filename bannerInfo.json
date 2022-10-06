@@ -104,6 +104,11 @@
     },
     {
       "id": 20,
+      "name": "Music",
+      "description": "Genre Music biasanya didominasi dengan karakter yang pandai bermain alat musik ataupun vocal suara yang indah dalam ceritanya, dan biasanya child genre dari Music ini adalah Slice of Life, Comedy dan Romance."
+    },
+    {
+      "id": 21,
       "name": "Live Action",
       "description": "Genre Live Action merupakan perwujudan cerita dari sebuah anime menjadi cerita khalayak asli yang terjadi didunia nyata atau bisa disebut cerita pada anime tersebut di perankan oleh seorang akrtis di dunia nyata."
     }
