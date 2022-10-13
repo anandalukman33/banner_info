@@ -1,117 +1,118 @@
 {
-    "status": "Ketika menonton Jangan lupa aktifin mode earn yah, supaya kamu nonton menjadi untung, happy watching!",
-    "isOpen": true,
-    "cpm": 5,
-    "paymentMsg": "Syarat penarikan uang haruslah berperingkat minimal Diamond! Ketika sudah claim point maka point akan tereset otomatis! Penarikan hanya via Gopay, lalu setiap selesai penarikan video yang pernah ditonton akan tetap mendapatkan poin jika belum pernah melakukan penarikan atau belum melakukan penarikan maka tidak mendapat poin, apabila pengguna aplikasi obasaka semakin banyak maka CPM akan bertambah!\n\nHappy Watching!",
-    "isOpenOnGoing": true,
-    "messageOnGoing": "Sewaktu-waktu jadwal dapat berubah!",
-    "infoNew": "Klik ini untuk mempelajari feature obasaka",
-    "categoryDetailList": [
-      {
-        "id": 1,
-        "name": "Action",
-        "description": "Anime action atau anime aksi merupakan jenis anime yang menghadirkan aksi laga dan pertarungan di dalamnya. Tokoh dalam film akan terlibat dalam tantangan yang memerlukan kekuatan fisik ataupun kemampuan khusus."
-      },
-      {
-        "id": 2,
-        "name": "Adventure",
-        "description": "Anime adventure atau petualangan adalah jenis anime yang berkisahkan petualangan atau penjelajahan ke suatu lokasi atau tempat tertentu, biasanya dengan tujuan mencari item, benda atau tujuan khusus lainnya."
-      },
-      {
-        "id": 3,
-        "name": "Avant Garde",
-        "description": "Anime bergenre Fiksi eksperimental yang menghindari penceritaan konvensional pada saat itu dibuat atau dalam arti lain eksperimental, radikal, dan tidak lazim. Karya-karya avant-garde umumnya bertujuan untuk melawan batas-batas dan norma dalam suatu kebudayaan. Kisah-kisah dalam genre ini sering menimbulkan perasaan tidak tenang dan tidak enak karena mereka menolak cara-cara tradisional di mana kita lebih suka melihat (atau melarikan diri dari) dunia. Narasi karya avant garde seringkali lebih penting daripada konten."
-      },
-      {
-        "id": 4,
-        "name": "Boy Love",
-        "description": "Anime bergenre Boy Love merupakan cerita tentang hubungan romantis/seksual sesama jenis antara laki-laki adalah fokus dari cerita-cerita pada genre ini. Istilah Boys Love dan singkatannya BL biasa digunakan oleh perempuan di jepang untuk imajinasi mereka."
-      },
-      {
-        "id": 5,
-        "name": "Comedy",
-        "description": "Anime dengan genre comedy bertujuan untuk memprioritaskan mengangkat penonton dengan emosi positif mereka, dengan mengundang tawa, hiburan, atau hiburan umum. Hampir selalu, cerita komedi bersifat episodik atau berakhir bahagia. Hampir setiap anime yang bergenre komedi sebagai plot mereka untuk meredakan ketegangan penonton, tetapi narasi yang menyeluruh harus difokuskan untuk membangkitkan hiburan menjadi Komedi."
-      },
-      {
-        "id": 6,
-        "name": "Ecchi",
-        "description": "Salah satu genre yang digemari oleh orang dewasa (17 tahun ke atas) yaitu genre ecchi. Hal itu dikarenakan, genre satu ini kerap menampilkan adegan fanservice, serta sering kali menonjolkan anggota tubuh tokoh wanitanya."
-      },
-      {
-        "id": 7,
-        "name": "Fantasy",
-        "description": "Kekuatan magis, makhluk tidak alami, atau elemen tidak nyata lainnya yang tidak dapat dijelaskan oleh sains adalah lazim dan normal dalam latar cerita dengan bergenre fantasi. Cerita fantasi dapat terjadi di Bumi (fantasi perkotaan) atau di dunia lain. Ciri-ciri karakter (misalnya pesulap vs iblis/roh) dan latar tidak menentukan apakah sebuah cerita adalah Fantasi. Jika mayoritas pemeran memiliki kekuatan magis atau supernatural (misalnya satu anak SMA biasa yang dikelilingi oleh lima dewi), maka ceritanya adalah Fantasi. Jika hanya beberapa karakter yang memiliki kekuatan dan sebagian besar pemeran akan tidak percaya untuk mengetahui hal ini (misalnya satu orang adalah pengusir setan dan sisanya adalah orang dewasa normal), maka ceritanya adalah Supernatural. Terkadang sebuah cerita bisa berupa Fantasi dan Supernatural, tetapi ini jarang terjadi."
-      },
-      {
-        "id": 8,
-        "name": "Girls Love",
-        "description": "Anime bergenre Girls Love merupakan cerita tentang hubungan romantis/seksual sesama jenis antara wanita adalah fokus dari cerita-cerita pada genre ini. Istilah Girls Love digunakan pada tingkat yang lebih rendah dibanding Yuri (Seksual sesama wanita)"
-      },
-      {
-        "id": 9,
-        "name": "Gourmet",
-        "description": "Anime bergenre Gourmet tidak jauh dari cerita tentang persiapan dan konsumsi makanan atau minuman pada genre gourmet dan narasinya dirancang untuk menampilkan banyak hidangan atau minuman yang berbeda. Karakter sering kali adalah koki atau penikmat makanan, dan perhatian khusus diberikan pada semua langkah dalam proses memasak, mulai dari deskripsi resep yang terperinci hingga reaksi karakter yang sering berlebihan saat mencicipi produk jadi."
-      },
-      {
-        "id": 10,
-        "name": "Horror",
-        "description": "Anime dengan genre horror memprioritaskan untuk menciptakan—dan mempertahankan—rasa takut pada penonton, serta menimbulkan keterkejutan, ketakutan, atau rasa jijik melalui suasana dan skenario yang menakutkan. Suasana hati harus sama atau lebih penting daripada latar dan penokohan dalam cerita horor. Hampir selalu, pemeran utama akan berada di bawah ancaman bahaya yang konstan."
-      },
-      {
-        "id": 11,
-        "name": "Mystery",
-        "description": "Anime dengan genre mystery Entah itu memecahkan suatu kejahatan atau mencari penjelasan atas suatu keadaan yang membingungkan, para pemeran utama mau atau tidak mau menjadi penyelidik yang harus bekerja untuk menjawab siapa, apa, mengapa, dan/atau bagaimana menebak atau menyimpulkan kejadian yang terjadi saat itu. Narasi cerita misteri selalu berfokus pada pengumpulan bukti, mengidentifikasi tersangka, dan berteori skenario yang mungkin untuk dijelaskan, sebelum akhirnya menangkap pelaku atau menyelesaikan situasi saat ini."
-      },
-      {
-        "id": 12,
-        "name": "Romance",
-        "description": "Anime dengan genre romance yaitu menceritakan kisah perjuangan dua orang manusia (pria dan wanita) menggapai kebahagiaannya melalui hubungan cinta/asmara dan Hampir selalu cerita berakhir dengan bahagia dan pasangan itu dihargai atas upaya mereka dengan cinta abadi.."
-      },
-      {
-        "id": 13,
-        "name": "Sci-Fi",
-        "description": "Anime dengan genre Sci-Fi atau dalam arti lain yaitu Fiksi ilmiah atau cerkan ilmiah adalah suatu bentuk fiksi spekulatif yang terutama membahas tentang pengaruh sains dan teknologi yang diimajinasikan terhadap masyarakat dan para individual. Batasan dari genre ini tidak pernah diterangkan dengan jelas atau distopia."
-      },
-      {
-        "id": 14,
-        "name": "Slice of Life",
-        "description": "Cerita dengan genre Slice of Life difokuskan pada periode kehidupan karakter utama yang tampaknya acak dan biasa-biasa saja. Tidak adanya plot sentral untuk membawa cerita menuju tujuan yang dipetakan berarti cerita Slice of Life sering kekurangan konflik dan resolusi yang menyeluruh. Sementara dalam kehidupan di genre Slice of Life bukannya tanpa konflik tapi di genre slife of life konflik yang kerap muncul dapat menghilang sesuka hati produser."
-      },
-      {
-        "id": 15,
-        "name": "Sports",
-        "description": "Cerita dengan genre Sports bercerita tentang pelatihan untuk dan berpartisipasi dalam segala jenis olahraga, dengan tujuan untuk meningkatkan kemampuan atletik seseorang—baik untuk memenangkan kompetisi atau mencapai status sosial. Meskipun olahraga yang ditampilkan bisa individu atau tim, pemeran utama akan selalu mengatasi konflik melalui diskusi dan wawasan yang diperoleh dari atlet atau pelatih lain. Hal ini menciptakan rasa dukungan kolektif dan prestasi yang selalu hadir dalam cerita Olahraga."
-      },
-      {
-        "id": 16,
-        "name": "Supernatural",
-        "description": "Cerita dengan genre Supernatural bercerita sesuatu yang tidak dapat dipikirkan dengan logika, cerita supernatural menggabungkan elemen atau atribut yang tidak alami dan tidak dapat dijelaskan oleh sains. Makhluk umum dalam cerita rakyat (hantu, vampir) atau manusia dengan kekuatan metafisik (telekinesis, membaca pikiran) yang sering ditampilkan pada genre ini."
-      },
-      {
-        "id": 17,
-        "name": "Harem",
-        "description": "Cerita dengan genre Harem dalam anime adalah sebuah pengisahan dari hubungan poligami atau cinta segitiga yang dikarakteristisasikan oleh seorang protagonis yang dikelilingi oleh tiga orang atau lebih dari jenis kelamin yang berlawanan dan/atau sama."
-      },
-      {
-        "id": 18,
-        "name": "Mecha",
-        "description": "Cerita dengan genre Mecha merujuk kepada gagasan ilmiah dan genre fiksi ilmiah yang terpusat pada robot atau mesin raksasa yang dikendalikan oleh orang. Mecha biasanya digambarkan sebagai robot peranti bergerak humanoid."
-      },
-      {
-        "id": 19,
-        "name": "Historical",
-        "description": "Anime dengan genre Historical merupakan jenis anime yang lebih merujuk dalam menceritakan sebuah kejadian yang sangat penting pada suatu negara atau bisa kita sebut sebagai sejarah, tetapi dalam kasus anime atau kartun jepang tentu mereka lebih memprioritaskan sejarah pada negara mereka, biasanya cerita pada genre historical ini menceritakan pada zaman edo di jepang saat itu."
-      },
-      {
-        "id": 20,
-        "name": "Music",
-        "description": "Genre Music biasanya didominasi dengan karakter yang pandai bermain alat musik ataupun vocal suara yang indah dalam ceritanya, dan biasanya child genre dari Music ini adalah Slice of Life, Comedy dan Romance."
-      },
-      {
-        "id": 21,
-        "name": "Live Action",
-        "description": "Genre Live Action merupakan perwujudan cerita dari sebuah anime menjadi cerita khalayak asli yang terjadi didunia nyata atau bisa disebut cerita pada anime tersebut di perankan oleh seorang akrtis di dunia nyata."
-      }
-    ],
-    "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime"
-  }
+  "status": "Ketika menonton Jangan lupa aktifin mode earn yah, supaya kamu nonton menjadi untung, happy watching!",
+  "isOpen": true,
+  "cpm": 5,
+  "paymentMsg": "Syarat penarikan uang haruslah berperingkat minimal Diamond! Ketika sudah claim point maka point akan tereset otomatis! Penarikan hanya via Gopay, lalu setiap selesai penarikan video yang pernah ditonton akan tetap mendapatkan poin jika belum pernah melakukan penarikan atau belum melakukan penarikan maka tidak mendapat poin, apabila pengguna aplikasi obasaka semakin banyak maka CPM akan bertambah!\n\nHappy Watching!",
+  "isOpenOnGoing": true,
+  "messageOnGoing": "Sewaktu-waktu jadwal dapat berubah!",
+  "infoNew": "Klik ini untuk mempelajari feature obasaka",
+  "categoryDetailList": [
+    {
+      "id": 1,
+      "name": "Action",
+      "description": "Anime action atau anime aksi merupakan jenis anime yang menghadirkan aksi laga dan pertarungan di dalamnya. Tokoh dalam film akan terlibat dalam tantangan yang memerlukan kekuatan fisik ataupun kemampuan khusus."
+    },
+    {
+      "id": 2,
+      "name": "Adventure",
+      "description": "Anime adventure atau petualangan adalah jenis anime yang berkisahkan petualangan atau penjelajahan ke suatu lokasi atau tempat tertentu, biasanya dengan tujuan mencari item, benda atau tujuan khusus lainnya."
+    },
+    {
+      "id": 3,
+      "name": "Avant Garde",
+      "description": "Anime bergenre Fiksi eksperimental yang menghindari penceritaan konvensional pada saat itu dibuat atau dalam arti lain eksperimental, radikal, dan tidak lazim. Karya-karya avant-garde umumnya bertujuan untuk melawan batas-batas dan norma dalam suatu kebudayaan. Kisah-kisah dalam genre ini sering menimbulkan perasaan tidak tenang dan tidak enak karena mereka menolak cara-cara tradisional di mana kita lebih suka melihat (atau melarikan diri dari) dunia. Narasi karya avant garde seringkali lebih penting daripada konten."
+    },
+    {
+      "id": 4,
+      "name": "Boy Love",
+      "description": "Anime bergenre Boy Love merupakan cerita tentang hubungan romantis/seksual sesama jenis antara laki-laki adalah fokus dari cerita-cerita pada genre ini. Istilah Boys Love dan singkatannya BL biasa digunakan oleh perempuan di jepang untuk imajinasi mereka."
+    },
+    {
+      "id": 5,
+      "name": "Comedy",
+      "description": "Anime dengan genre comedy bertujuan untuk memprioritaskan mengangkat penonton dengan emosi positif mereka, dengan mengundang tawa, hiburan, atau hiburan umum. Hampir selalu, cerita komedi bersifat episodik atau berakhir bahagia. Hampir setiap anime yang bergenre komedi sebagai plot mereka untuk meredakan ketegangan penonton, tetapi narasi yang menyeluruh harus difokuskan untuk membangkitkan hiburan menjadi Komedi."
+    },
+    {
+      "id": 6,
+      "name": "Ecchi",
+      "description": "Salah satu genre yang digemari oleh orang dewasa (17 tahun ke atas) yaitu genre ecchi. Hal itu dikarenakan, genre satu ini kerap menampilkan adegan fanservice, serta sering kali menonjolkan anggota tubuh tokoh wanitanya."
+    },
+    {
+      "id": 7,
+      "name": "Fantasy",
+      "description": "Kekuatan magis, makhluk tidak alami, atau elemen tidak nyata lainnya yang tidak dapat dijelaskan oleh sains adalah lazim dan normal dalam latar cerita dengan bergenre fantasi. Cerita fantasi dapat terjadi di Bumi (fantasi perkotaan) atau di dunia lain. Ciri-ciri karakter (misalnya pesulap vs iblis/roh) dan latar tidak menentukan apakah sebuah cerita adalah Fantasi. Jika mayoritas pemeran memiliki kekuatan magis atau supernatural (misalnya satu anak SMA biasa yang dikelilingi oleh lima dewi), maka ceritanya adalah Fantasi. Jika hanya beberapa karakter yang memiliki kekuatan dan sebagian besar pemeran akan tidak percaya untuk mengetahui hal ini (misalnya satu orang adalah pengusir setan dan sisanya adalah orang dewasa normal), maka ceritanya adalah Supernatural. Terkadang sebuah cerita bisa berupa Fantasi dan Supernatural, tetapi ini jarang terjadi."
+    },
+    {
+      "id": 8,
+      "name": "Girls Love",
+      "description": "Anime bergenre Girls Love merupakan cerita tentang hubungan romantis/seksual sesama jenis antara wanita adalah fokus dari cerita-cerita pada genre ini. Istilah Girls Love digunakan pada tingkat yang lebih rendah dibanding Yuri (Seksual sesama wanita)"
+    },
+    {
+      "id": 9,
+      "name": "Gourmet",
+      "description": "Anime bergenre Gourmet tidak jauh dari cerita tentang persiapan dan konsumsi makanan atau minuman pada genre gourmet dan narasinya dirancang untuk menampilkan banyak hidangan atau minuman yang berbeda. Karakter sering kali adalah koki atau penikmat makanan, dan perhatian khusus diberikan pada semua langkah dalam proses memasak, mulai dari deskripsi resep yang terperinci hingga reaksi karakter yang sering berlebihan saat mencicipi produk jadi."
+    },
+    {
+      "id": 10,
+      "name": "Horror",
+      "description": "Anime dengan genre horror memprioritaskan untuk menciptakan—dan mempertahankan—rasa takut pada penonton, serta menimbulkan keterkejutan, ketakutan, atau rasa jijik melalui suasana dan skenario yang menakutkan. Suasana hati harus sama atau lebih penting daripada latar dan penokohan dalam cerita horor. Hampir selalu, pemeran utama akan berada di bawah ancaman bahaya yang konstan."
+    },
+    {
+      "id": 11,
+      "name": "Mystery",
+      "description": "Anime dengan genre mystery Entah itu memecahkan suatu kejahatan atau mencari penjelasan atas suatu keadaan yang membingungkan, para pemeran utama mau atau tidak mau menjadi penyelidik yang harus bekerja untuk menjawab siapa, apa, mengapa, dan/atau bagaimana menebak atau menyimpulkan kejadian yang terjadi saat itu. Narasi cerita misteri selalu berfokus pada pengumpulan bukti, mengidentifikasi tersangka, dan berteori skenario yang mungkin untuk dijelaskan, sebelum akhirnya menangkap pelaku atau menyelesaikan situasi saat ini."
+    },
+    {
+      "id": 12,
+      "name": "Romance",
+      "description": "Anime dengan genre romance yaitu menceritakan kisah perjuangan dua orang manusia (pria dan wanita) menggapai kebahagiaannya melalui hubungan cinta/asmara dan Hampir selalu cerita berakhir dengan bahagia dan pasangan itu dihargai atas upaya mereka dengan cinta abadi.."
+    },
+    {
+      "id": 13,
+      "name": "Sci-Fi",
+      "description": "Anime dengan genre Sci-Fi atau dalam arti lain yaitu Fiksi ilmiah atau cerkan ilmiah adalah suatu bentuk fiksi spekulatif yang terutama membahas tentang pengaruh sains dan teknologi yang diimajinasikan terhadap masyarakat dan para individual. Batasan dari genre ini tidak pernah diterangkan dengan jelas atau distopia."
+    },
+    {
+      "id": 14,
+      "name": "Slice of Life",
+      "description": "Cerita dengan genre Slice of Life difokuskan pada periode kehidupan karakter utama yang tampaknya acak dan biasa-biasa saja. Tidak adanya plot sentral untuk membawa cerita menuju tujuan yang dipetakan berarti cerita Slice of Life sering kekurangan konflik dan resolusi yang menyeluruh. Sementara dalam kehidupan di genre Slice of Life bukannya tanpa konflik tapi di genre slife of life konflik yang kerap muncul dapat menghilang sesuka hati produser."
+    },
+    {
+      "id": 15,
+      "name": "Sports",
+      "description": "Cerita dengan genre Sports bercerita tentang pelatihan untuk dan berpartisipasi dalam segala jenis olahraga, dengan tujuan untuk meningkatkan kemampuan atletik seseorang—baik untuk memenangkan kompetisi atau mencapai status sosial. Meskipun olahraga yang ditampilkan bisa individu atau tim, pemeran utama akan selalu mengatasi konflik melalui diskusi dan wawasan yang diperoleh dari atlet atau pelatih lain. Hal ini menciptakan rasa dukungan kolektif dan prestasi yang selalu hadir dalam cerita Olahraga."
+    },
+    {
+      "id": 16,
+      "name": "Supernatural",
+      "description": "Cerita dengan genre Supernatural bercerita sesuatu yang tidak dapat dipikirkan dengan logika, cerita supernatural menggabungkan elemen atau atribut yang tidak alami dan tidak dapat dijelaskan oleh sains. Makhluk umum dalam cerita rakyat (hantu, vampir) atau manusia dengan kekuatan metafisik (telekinesis, membaca pikiran) yang sering ditampilkan pada genre ini."
+    },
+    {
+      "id": 17,
+      "name": "Harem",
+      "description": "Cerita dengan genre Harem dalam anime adalah sebuah pengisahan dari hubungan poligami atau cinta segitiga yang dikarakteristisasikan oleh seorang protagonis yang dikelilingi oleh tiga orang atau lebih dari jenis kelamin yang berlawanan dan/atau sama."
+    },
+    {
+      "id": 18,
+      "name": "Mecha",
+      "description": "Cerita dengan genre Mecha merujuk kepada gagasan ilmiah dan genre fiksi ilmiah yang terpusat pada robot atau mesin raksasa yang dikendalikan oleh orang. Mecha biasanya digambarkan sebagai robot peranti bergerak humanoid."
+    },
+    {
+      "id": 19,
+      "name": "Historical",
+      "description": "Anime dengan genre Historical merupakan jenis anime yang lebih merujuk dalam menceritakan sebuah kejadian yang sangat penting pada suatu negara atau bisa kita sebut sebagai sejarah, tetapi dalam kasus anime atau kartun jepang tentu mereka lebih memprioritaskan sejarah pada negara mereka, biasanya cerita pada genre historical ini menceritakan pada zaman edo di jepang saat itu."
+    },
+    {
+      "id": 20,
+      "name": "Music",
+      "description": "Genre Music biasanya didominasi dengan karakter yang pandai bermain alat musik ataupun vocal suara yang indah dalam ceritanya, dan biasanya child genre dari Music ini adalah Slice of Life, Comedy dan Romance."
+    },
+    {
+      "id": 21,
+      "name": "Live Action",
+      "description": "Genre Live Action merupakan perwujudan cerita dari sebuah anime menjadi cerita khalayak asli yang terjadi didunia nyata atau bisa disebut cerita pada anime tersebut di perankan oleh seorang akrtis di dunia nyata."
+    }
+  ],
+  "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime",
+  "antiPiracy": false
+}
