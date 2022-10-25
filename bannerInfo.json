@@ -114,5 +114,5 @@
     }
   ],
   "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime",
-  "antiPiracy": false
+  "antiPiracy": true
 }
