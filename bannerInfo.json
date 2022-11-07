@@ -1,5 +1,5 @@
 {
-  "status": "Ketika menonton Jangan lupa aktifin mode earn yah, supaya kamu nonton menjadi untung, happy watching!",
+  "status": "Pastikan memory internal kamu mencukupi yah, minimal 5GB free space, supaya kamu menonton menjadi nyaman.",
   "isOpen": true,
   "cpm": 5,
   "paymentMsg": "Syarat penarikan uang haruslah berperingkat minimal Diamond! Ketika sudah claim point maka point akan tereset otomatis! Penarikan hanya via Gopay, lalu setiap selesai penarikan video yang pernah ditonton akan tetap mendapatkan poin jika belum pernah melakukan penarikan atau belum melakukan penarikan maka tidak mendapat poin, apabila pengguna aplikasi obasaka semakin banyak maka CPM akan bertambah!\n\nHappy Watching!",
@@ -113,7 +113,7 @@
       "description": "Genre Live Action merupakan perwujudan cerita dari sebuah anime menjadi cerita khalayak asli yang terjadi didunia nyata atau bisa disebut cerita pada anime tersebut di perankan oleh seorang akrtis di dunia nyata."
     }
   ],
-  "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime",
+  "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime, atau di tombol warna hijau dibawah ini",
   "antiPiracy": false,
   "durationClaim": 480000,
   "durationPlayer": 60000
