@@ -115,6 +115,6 @@
   ],
   "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime, atau di tombol warna hijau dibawah ini",
   "antiPiracy": false,
-  "durationClaim": 480000,
-  "durationPlayer": 60000
+  "durationClaim": 300000,
+  "durationPlayer": 10000
 }
