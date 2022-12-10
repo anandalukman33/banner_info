@@ -1,0 +1,116 @@
+{
+    "planVip1": [
+        {
+            "titlePlan": "Plan VIP 1",
+            "descriptionPlan": "Plan VIP 1 memiliki durasi selama 30 hari atau 1 bulan dalam pemakaian. Dan jika sudah tenggat waktu maka alias masa waktu vip sudah habis, akan tereset otomatis"
+        },
+        {
+            "titlePlan": "Bebas Iklan",
+            "descriptionPlan": "Pemakaian semua Plan VIP tidak ada yang namanya iklan pada saat membuka aplikasi ataupun menonton, jadi kamu bisa nyaman saat nonton. (Kecuali di mode earn, atau mode mendapatkan poin)"
+        },
+        {
+            "titlePlan": "Memiliki Badge Premium",
+            "descriptionPlan": "Kamu mendapatkan badge premium dan badge VIP 1 di menu chat dan di tampilan daftar user online."
+        },
+        {
+            "titlePlan": "Dapat Unduh Video!",
+            "descriptionPlan": "Kamu dapat mengunduh video terlebih dahulu supaya saat nonton nanti tidak ada yang namanya buffering lagi. (tetap memakai internet, karena ada interaksi dengan API)"
+        },
+        {
+            "titlePlan": "Dapat Mengaktifkan Fitur Preload",
+            "descriptionPlan": "Preload yang dimaksud adalah saat kamu nonton anime, ada proses yang bekerja secara paralel, yaitu buffering dan download, jadi saat nonton anime lebih cepat dan stabil baik itu saat memundur atau memajukan durasi tanpa adanya loading yang lama (rata-rata 10 ms - 1.5 detik)"
+        },
+        {
+            "titlePlan": "Request Anime Lebih Didahulukan",
+            "descriptionPlan": "Ketika kamu sudah menjadi VIP, tentunya request kamu lebih didahulukan dan akan diproses secepat mungkin."
+        },
+        {
+            "titlePlan": "(Coming Soon) Ada Akses Nonton H**T*I",
+            "descriptionPlan": "Kamu di kasih akses nonton anime H yang hanya tampil serta ditonton oleh pengguna VIP, feature ini masih coming soon"
+        },
+        {
+            "titlePlan": "(Coming Soon) Dapat Memiliki Fitur Server Backup",
+            "descriptionPlan": "Server Backup ini yang dimaksud, jika ada masalah dengan server, kamu dapat menggunakan fitur ini, yang dimana menggunakan server dari microsoft OneDrive yang membuat kecepatan streaming lebih cepat dari google drive."
+        },
+        {
+            "titlePlan": "(Coming Soon) Tampilan Revamp dari Menu Player dan Detail Anime.",
+            "descriptionPlan": "Jadi nanti saat kamu sudah menjadi VIP ada pilihan switch di menu setting, yang dimana saat kamu mengaktifkan Revamp Menu, menu player menjadi lebih menarik, dan menu detail anime menjadi lebih keren."
+        }
+    ],
+    "planVip2": [
+        {
+            "titlePlan": "Plan VIP 2",
+            "descriptionPlan": "Plan VIP 2 memiliki durasi selama 60 hari atau 2 bulan dalam pemakaian. Dan jika sudah tenggat waktu maka alias masa waktu vip sudah habis, akan tereset otomatis"
+        },
+        {
+            "titlePlan": "Bebas Iklan",
+            "descriptionPlan": "Pemakaian semua Plan VIP tidak ada yang namanya iklan pada saat membuka aplikasi ataupun menonton, jadi kamu bisa nyaman saat nonton. (Kecuali di mode earn, atau mode mendapatkan poin)"
+        },
+        {
+            "titlePlan": "Memiliki Badge Premium",
+            "descriptionPlan": "Kamu mendapatkan badge premium dan badge VIP 2 di menu chat dan di tampilan daftar user online."
+        },
+        {
+            "titlePlan": "Dapat Unduh Video!",
+            "descriptionPlan": "Kamu dapat mengunduh video terlebih dahulu supaya saat nonton nanti tidak ada yang namanya buffering lagi. (tetap memakai internet, karena ada interaksi dengan API)"
+        },
+        {
+            "titlePlan": "Dapat Mengaktifkan Fitur Preload",
+            "descriptionPlan": "Preload yang dimaksud adalah saat kamu nonton anime, ada proses yang bekerja secara paralel, yaitu buffering dan download, jadi saat nonton anime lebih cepat dan stabil baik itu saat memundur atau memajukan durasi tanpa adanya loading yang lama (rata-rata 10 ms - 1.5 detik)"
+        },
+        {
+            "titlePlan": "Request Anime Lebih Didahulukan",
+            "descriptionPlan": "Ketika kamu sudah menjadi VIP, tentunya request kamu lebih didahulukan dan akan diproses secepat mungkin."
+        },
+        {
+            "titlePlan": "(Coming Soon) Ada Akses Nonton H**T*I",
+            "descriptionPlan": "Kamu di kasih akses nonton anime H yang hanya tampil serta ditonton oleh pengguna VIP, feature ini masih coming soon"
+        },
+        {
+            "titlePlan": "(Coming Soon) Dapat Memiliki Fitur Server Backup",
+            "descriptionPlan": "Server Backup ini yang dimaksud, jika ada masalah dengan server, kamu dapat menggunakan fitur ini, yang dimana menggunakan server dari microsoft OneDrive yang membuat kecepatan streaming lebih cepat dari google drive."
+        },
+        {
+            "titlePlan": "(Coming Soon) Tampilan Revamp dari Menu Player dan Detail Anime.",
+            "descriptionPlan": "Jadi nanti saat kamu sudah menjadi VIP ada pilihan switch di menu setting, yang dimana saat kamu mengaktifkan Revamp Menu, menu player menjadi lebih menarik, dan menu detail anime menjadi lebih keren."
+        }
+    ],
+    "planVip3": [
+        {
+            "titlePlan": "Plan VIP 3",
+            "descriptionPlan": "Plan VIP 3 memiliki durasi selama 90 hari atau 3 bulan dalam pemakaian. Dan jika sudah tenggat waktu maka alias masa waktu vip sudah habis, akan tereset otomatis"
+        },
+        {
+            "titlePlan": "Bebas Iklan",
+            "descriptionPlan": "Pemakaian semua Plan VIP tidak ada yang namanya iklan pada saat membuka aplikasi ataupun menonton, jadi kamu bisa nyaman saat nonton. (Kecuali di mode earn, atau mode mendapatkan poin)"
+        },
+        {
+            "titlePlan": "Memiliki Badge Premium",
+            "descriptionPlan": "Kamu mendapatkan badge premium dan badge VIP 3 di menu chat dan di tampilan daftar user online."
+        },
+        {
+            "titlePlan": "Dapat Unduh Video!",
+            "descriptionPlan": "Kamu dapat mengunduh video terlebih dahulu supaya saat nonton nanti tidak ada yang namanya buffering lagi. (tetap memakai internet, karena ada interaksi dengan API)"
+        },
+        {
+            "titlePlan": "Dapat Mengaktifkan Fitur Preload",
+            "descriptionPlan": "Preload yang dimaksud adalah saat kamu nonton anime, ada proses yang bekerja secara paralel, yaitu buffering dan download, jadi saat nonton anime lebih cepat dan stabil baik itu saat memundur atau memajukan durasi tanpa adanya loading yang lama (rata-rata 10 ms - 1.5 detik)"
+        },
+        {
+            "titlePlan": "Request Anime Lebih Didahulukan",
+            "descriptionPlan": "Ketika kamu sudah menjadi VIP, tentunya request kamu lebih didahulukan dan akan diproses secepat mungkin."
+        },
+        {
+            "titlePlan": "(Coming Soon) Ada Akses Nonton H**T*I",
+            "descriptionPlan": "Kamu di kasih akses nonton anime H yang hanya tampil serta ditonton oleh pengguna VIP, feature ini masih coming soon"
+        },
+        {
+            "titlePlan": "(Coming Soon) Dapat Memiliki Fitur Server Backup",
+            "descriptionPlan": "Server Backup ini yang dimaksud, jika ada masalah dengan server, kamu dapat menggunakan fitur ini, yang dimana menggunakan server dari microsoft OneDrive yang membuat kecepatan streaming lebih cepat dari google drive."
+        },
+        {
+            "titlePlan": "(Coming Soon) Tampilan Revamp dari Menu Player dan Detail Anime.",
+            "descriptionPlan": "Jadi nanti saat kamu sudah menjadi VIP ada pilihan switch di menu setting, yang dimana saat kamu mengaktifkan Revamp Menu, menu player menjadi lebih menarik, dan menu detail anime menjadi lebih keren."
+        }
+    ]
+}
