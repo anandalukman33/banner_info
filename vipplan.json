@@ -1,7 +1,11 @@
 {
     "planVip1": [
         {
-            "titlePlan": "Plan VIP 1",
+            "titlePlan": "Harga Plan VIP 1",
+            "descriptionPlan": "harga plan vip 1 dapat kamu beli dengan harga Rp10.000 saja, dengan keuntungan yang banyak untukmu, karena akan kedepannya akan ada feature yang sudah dijelaskan pada list paling bawah yang kemungkinan akan segera di develop dan dirilis"
+        },
+        {
+            "titlePlan": "Detail Plan VIP 1",
             "descriptionPlan": "Plan VIP 1 memiliki durasi selama 30 hari atau 1 bulan dalam pemakaian. Dan jika sudah tenggat waktu maka alias masa waktu vip sudah habis, akan tereset otomatis"
         },
         {
@@ -39,7 +43,11 @@
     ],
     "planVip2": [
         {
-            "titlePlan": "Plan VIP 2",
+            "titlePlan": "Harga Plan VIP 2",
+            "descriptionPlan": "harga plan vip 1 dapat kamu beli dengan harga Rp30.000 saja, dengan keuntungan yang banyak untukmu, karena akan kedepannya akan ada feature yang sudah dijelaskan pada list paling bawah yang kemungkinan akan segera di develop dan dirilis"
+        },
+        {
+            "titlePlan": "Detail Plan VIP 2",
             "descriptionPlan": "Plan VIP 2 memiliki durasi selama 60 hari atau 2 bulan dalam pemakaian. Dan jika sudah tenggat waktu maka alias masa waktu vip sudah habis, akan tereset otomatis"
         },
         {
@@ -77,7 +85,11 @@
     ],
     "planVip3": [
         {
-            "titlePlan": "Plan VIP 3",
+            "titlePlan": "Harga Plan VIP 3",
+            "descriptionPlan": "harga plan vip 1 dapat kamu beli dengan harga Rp50.000 saja, dengan keuntungan yang banyak untukmu, karena akan kedepannya akan ada feature yang sudah dijelaskan pada list paling bawah yang kemungkinan akan segera di develop dan dirilis"
+        },
+        {
+            "titlePlan": "Detail Plan VIP 3",
             "descriptionPlan": "Plan VIP 3 memiliki durasi selama 90 hari atau 3 bulan dalam pemakaian. Dan jika sudah tenggat waktu maka alias masa waktu vip sudah habis, akan tereset otomatis"
         },
         {
