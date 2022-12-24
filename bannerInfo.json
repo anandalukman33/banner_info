@@ -5,7 +5,7 @@
   "paymentMsg": "Syarat penarikan uang haruslah berperingkat minimal Diamond! Ketika sudah claim point maka point akan tereset otomatis! Penarikan hanya via Gopay, lalu setiap selesai penarikan video yang pernah ditonton akan tetap mendapatkan poin jika belum pernah melakukan penarikan atau belum melakukan penarikan maka tidak mendapat poin, apabila pengguna aplikasi obasaka semakin banyak maka CPM akan bertambah!\n\nHappy Watching!",
   "isOpenOnGoing": true,
   "messageOnGoing": "Sewaktu-waktu jadwal dapat berubah!",
-  "infoNew": "Klik ini untuk mempelajari feature obasaka",
+  "infoNew": "Pahami Feature Obasaka Dahulu Baru Nonton! Klik Disini!",
   "categoryDetailList": [
     {
       "id": 1,
@@ -114,9 +114,9 @@
     }
   ],
   "bookingStatus": "Kalian bisa request di chat ataupun di halaman profile di tombol Request Anime, atau di tombol warna hijau dibawah ini",
-  "antiPiracy": false,
-  "durationClaim": 100000,
+  "antiPiracy": true,
+  "durationClaim": 240000,
   "durationPlayer": 10000,
-  "guestAccess": false,
+  "guestAccess": true,
   "moduleAdsCount": 1
 }
