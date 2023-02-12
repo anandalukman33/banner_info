@@ -117,7 +117,7 @@
   "antiPiracy": true,
   "durationClaim": 240000,
   "durationPlayer": 10000,
-  "guestAccess": true,
+  "guestAccess": false,
   "moduleAdsCount": 1,
   "isMaintenance": false
 }
